@@ -118,7 +118,7 @@ tasks = loader.load_mbpp_hf(n=50)        # Full MBPP
 ```
 @misc{tokenoptimizer2024,
   title  = {TokenOptimizer: A Lightweight Token Reduction Library for LLM Code Generation},
-  author = {[Your Name]},
+  author = {[Shahira Aslam Khan, Benita Magdalene Kingsley Prince, Varsha Ramachandran, Prof. Debapriya Hazra]},
   year   = {2024},
   note   = {Poster Presentation}
 }
